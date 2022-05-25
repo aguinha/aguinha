@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="http://pa1.narvii.com/6493/1ea239d4c28186844fc4cece2c78453297a99027_00.gif" width="170"/>
+  <img src="http://pa1.narvii.com/6493/1ea239d4c28186844fc4cece2c78453297a99027_00.gif" width="210"/>
 </div>
 
 <div id="badges" align="center">
@@ -26,12 +26,23 @@
 
 ---
 
-### 📚 Sobre Mim :
+<style> 
 
-Sou uma programadora de jogos <img src="https://1.bp.blogspot.com/-tOaM0onrgiI/YYmNf7BtNQI/AAAAAAAAJn0/YlN6PalJ9skC08Mo8sdbjMZsILVmQfTTgCLcBGAsYHQ/s376/FluffyPiercingEkaltadeta-size_restricted.gif" width="30">
+img.a {
 
-- Utilizo Game Maker Studio 2 <img src="https://pbs.twimg.com/profile_images/1516433560630145037/G94DabaV_400x400.jpg" width="20">
-- Gosto de Literatura <img src="https://i.pinimg.com/originals/f1/bf/39/f1bf394131c1a324cefebc2f855985e6.gif" width="20">
+  vertical-align: middle;
+  
+}
+
+</style>
+
+
+### 📄 Sobre Mim :
+
+Sou uma programadora de jogos <img class="a" src="https://1.bp.blogspot.com/-tOaM0onrgiI/YYmNf7BtNQI/AAAAAAAAJn0/YlN6PalJ9skC08Mo8sdbjMZsILVmQfTTgCLcBGAsYHQ/s376/FluffyPiercingEkaltadeta-size_restricted.gif" width="55">
+
+- Utilizo Game Maker Studio 2 🕹
+- Gosto de Literatura 📚
 - Sou pobre 💸
 - Ela/Dela 🚺
 
