@@ -26,17 +26,6 @@
 
 ---
 
-<style> 
-
-img.a {
-
-  vertical-align: middle;
-  
-}
-
-</style>
-
-
 ### 📄 Sobre Mim :
 
 Sou uma programadora de jogos <img class="a" src="https://1.bp.blogspot.com/-tOaM0onrgiI/YYmNf7BtNQI/AAAAAAAAJn0/YlN6PalJ9skC08Mo8sdbjMZsILVmQfTTgCLcBGAsYHQ/s376/FluffyPiercingEkaltadeta-size_restricted.gif" width="55">
